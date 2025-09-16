@@ -9,5 +9,5 @@
 |무엇을 만들고자 하는가| 서술형 문장으로 적기  |
 |고객|  범위를 최대한 좁혀서 지정   |
 |사용할 소프트웨어 패키지의 명칭과 핵심기능/용도|   |
-|팀그라운드룰| 우리 팀링크 넣기 [팀그라운드룰](https://github.com/Team-NoPainNoGain/NoPainNoGain/blob/main/GroundRule.md) |
+|팀그라운드룰| 우리 팀링크 넣기 [GroundRule] (https://github.com/BWLOVERS/docs/blob/main/GroundRule.md) |
 |최종수정일| 2025-09-09  |
