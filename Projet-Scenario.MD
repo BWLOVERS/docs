@@ -7,9 +7,9 @@
 |프로젝트 멤버| 백소영, 양은서, 우윤수 |
 |팀지도교수| |
 |무엇을 만들고자 하는가| 서술형 문장으로 적기  |
-|고객|  범위를 최대한 좁혀서 지정 |
+|고객|  119 긴급상황 신고에 미숙한 어린이 |
 |Pain Point | |
 |사용할 소프트웨어 패키지의 명칭과 핵심기능/용도|   |
 |사용할 소프트웨어 패키지의 명칭과 URL | |
-|팀그라운드룰| [GroundRule] (https://github.com/BWLOVERS/docs/blob/main/GroundRule.md) |
+|팀그라운드룰| [GroundRule] #https://github.com/BWLOVERS/docs/blob/main/GroundRule.md |
 |최종수정일| 2025-09-016  |
