@@ -1,4 +1,7 @@
+<img width="2245" height="3179" alt="최종_v2 (면담 후)" src="https://github.com/user-attachments/assets/102b267a-3e47-43bc-948e-e50cfbb18bab" />
+
 # 팀 봉원아사랑해 BWLOVERS
+
 
 ## 🐱팀원
 
